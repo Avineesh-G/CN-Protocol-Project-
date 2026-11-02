@@ -132,8 +132,6 @@ CN-Protocol-Project-/
 ├── .gitignore                                      # Ignored build artifacts and node_modules
 ├── README.md                                       # Complete technical documentation
 ├── IMPLEMENTATION_PLAN.md                          # Engineering implementation phases
-├── MICROPS_PPT_PRESENTATION_INFOGRAPHICS_GUIDE.md  # 18-slide presentation deck with diagrams
-├── MICROPS_PROJECT_CONCEPTS_AND_PDF_GUIDE.md       # Full academic report and PDF guide
 ├── package.json                                    # Root workspace configuration
 ├── start_protocol_studio.bat                       # Windows launch script
 │
