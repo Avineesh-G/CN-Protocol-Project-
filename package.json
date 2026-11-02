@@ -1,0 +1,10 @@
+{
+  "name": "protocol-cn-project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MicroPS Visual Protocol Studio & User-Space TCP/IP Stack",
+  "scripts": {
+    "dev": "npm --prefix protocol-studio run dev",
+    "build": "npm --prefix protocol-studio run build"
+  }
+}
